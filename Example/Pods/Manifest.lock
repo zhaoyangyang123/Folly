@@ -1,0 +1,16 @@
+PODS:
+  - Folly (0.1.0)
+
+DEPENDENCIES:
+  - Folly (from `../`)
+
+EXTERNAL SOURCES:
+  Folly:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Folly: da205c77a7d9c2266e75ce4c99a2be4db37f4819
+
+PODFILE CHECKSUM: a0964aeaffe72634b8dbb660937b83946b13db14
+
+COCOAPODS: 1.8.4
