@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'Folly'
-  s.version          = '0.1.0'
+  s.version          = '2018.10.22.00'
   s.summary          = 'Folly私有库'
 
 # This description is used to generate tags and improve search results.
